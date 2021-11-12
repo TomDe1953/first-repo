@@ -1,2 +1,2 @@
-MAINFUNCT func();
+MainFunction ();
 
