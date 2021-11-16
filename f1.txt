@@ -1,2 +1,2 @@
-MainFunction ();
+MainFunction () Removed semi-colon
 
