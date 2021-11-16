@@ -1,2 +1,3 @@
 #include "Warrior.h"
 int MAINFUNC() {}
+Add new txt
